@@ -1,0 +1,7 @@
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\bin\Debug\netcoreapp1.0\RarsCore.deps.json
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\bin\Debug\netcoreapp1.0\RarsCore.dll
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\bin\Debug\netcoreapp1.0\RarsCore.pdb
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\obj\Debug\netcoreapp1.0\RarsCore.csprojResolveAssemblyReference.cache
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\obj\Debug\netcoreapp1.0\RarsCore.AssemblyInfo.cs
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\obj\Debug\netcoreapp1.0\RarsCore.dll
+c:\Users\givy1\OneDrive\documents\visual studio 2017\Projects\RateFilm\RarsCore\obj\Debug\netcoreapp1.0\RarsCore.pdb

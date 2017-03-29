@@ -1,0 +1,11 @@
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RateFilm.deps.json
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RateFilm.runtimeconfig.json
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RateFilm.runtimeconfig.dev.json
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RateFilm.dll
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RateFilm.pdb
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\obj\Debug\netcoreapp1.0\RateFilm.csprojResolveAssemblyReference.cache
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\obj\Debug\netcoreapp1.0\RateFilm.AssemblyInfo.cs
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\obj\Debug\netcoreapp1.0\RateFilm.dll
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\obj\Debug\netcoreapp1.0\RateFilm.pdb
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RarsCore.dll
+c:\users\givy1\onedrive\documents\visual studio 2017\Projects\RateFilm\RateFilm\bin\Debug\netcoreapp1.0\RarsCore.pdb
